@@ -8,7 +8,7 @@ namespace AsistCargas
         [STAThread]
         static void Main()
         {
-            //este es un comentario
+            //este es un comenta
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
