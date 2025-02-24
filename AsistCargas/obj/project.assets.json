@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dzib-\\source\\repos\\AsistCargas\\AsistCargas.csproj",
+      "projectUniqueName": "C:\\Users\\dzib-\\Source\\Repos\\pryMETAgiles\\AsistCargas\\AsistCargas.csproj",
       "projectName": "AsistCargas",
-      "projectPath": "C:\\Users\\dzib-\\source\\repos\\AsistCargas\\AsistCargas.csproj",
+      "projectPath": "C:\\Users\\dzib-\\Source\\Repos\\pryMETAgiles\\AsistCargas\\AsistCargas.csproj",
       "packagesPath": "C:\\Users\\dzib-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dzib-\\source\\repos\\AsistCargas\\obj\\",
+      "outputPath": "C:\\Users\\dzib-\\Source\\Repos\\pryMETAgiles\\AsistCargas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dzib-\\AppData\\Roaming\\NuGet\\NuGet.Config",
