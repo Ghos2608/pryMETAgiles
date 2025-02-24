@@ -14,7 +14,6 @@ namespace AsistCargas
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    /// COMENTARIO
     public partial class MainWindow : Window
     {
         public MainWindow()
