@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsistCargas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0783c0caf848afeb4a6a0cb624c91a1317f8c450")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b3b7366f7fafd4e70310047bc76618b35f6e51")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsistCargas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsistCargas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
